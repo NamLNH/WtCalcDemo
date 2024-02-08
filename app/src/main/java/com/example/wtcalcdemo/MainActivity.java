@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     //option pound to kg selected
                     Toast.makeText(MainActivity.this,"Kg to Pound selected",
                             Toast.LENGTH_SHORT).show();
-                    //test
+                    //comment
                 }
             }
         });
